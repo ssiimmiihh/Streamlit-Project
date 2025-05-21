@@ -1,11 +1,10 @@
-# Project
 
 ![메인 프로젝트 이미지](marketing.png)
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
 
-## portfolio 1
+## Portfolio 1
 
 ![프로젝트2 이미지](marketing2.png)
 
@@ -14,7 +13,7 @@
 </div>
 <div style="width: 48%;">
 
-## portfolio 2
+## Portfolio 2
 
 ![프로젝트3 이미지](project3.png)
 
