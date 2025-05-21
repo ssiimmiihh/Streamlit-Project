@@ -1,6 +1,6 @@
 # Main Title
 
-![메인 프로젝트 이미지](maketing.png)](https://luciasim05.streamlit.app/)
+![메인 프로젝트 이미지](marketing.png)
 
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
