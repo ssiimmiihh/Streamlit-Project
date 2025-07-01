@@ -19,7 +19,7 @@
 ## 2. 미국 식품 수출을 준비하는 K-푸드 기업을 위한, FDA 규제 맞춤형 챗봇 도우미
  
 
-![프로젝트2 이미지](Risk_killer.png)
+![프로젝트2 이미지](streamlit.png)
 </div>
 <div style="width: 30%;">
   
