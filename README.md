@@ -4,6 +4,16 @@
 <div style="display: flex; justify-content: space-between;">
 <div style="width: 48%;">
 
+## Hyojin Sim
+
+안녕하세요, 
+
+## 경력
+
+퍼포먼스 마케팅 경험을 통해 데이터 분석을 통해 성과를 달성하는 경험을,
+이커머스 운영 경험을 통해 프로세스 효율 개선 및 협업 역량을 쌓았습니다.
+
+
 ## Portfolio 1
 
 ![프로젝트2 이미지](subportfolio1.png)
